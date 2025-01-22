@@ -8,7 +8,7 @@ O usuário deverá adicionar nomes por meio de um campo de texto e de um botão 
 
 Os nomes inseridos devem ser exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
 
-### Funcionalidades:
+## Funcionalidades:
 
 - [x] Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
