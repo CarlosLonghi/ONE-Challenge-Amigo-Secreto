@@ -17,3 +17,21 @@ Os nomes inseridos devem ser exibidos em uma lista visível na página, e ao fin
 - [x] Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
 - [x] Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+
+### Tela inicial
+
+#### Adicione o nome de seus amigos no campo e clique em "adicionar".
+
+![Tela inicial](assets/screenshots/inicio.png)
+
+### Lista de amigos
+
+#### Após adicionar seus amigos, a lista será mostrada dessa forma.
+
+![Lista de amigos](assets/screenshots/lista-de-amigos.png)
+
+### Resultado do sorteio
+
+#### Clique em "Sortear amigo" para realizar o sorteio e mostrar o amigo sorteado, como na imagem abaixo.
+
+![Resultado do sorteio](assets/screenshots/amigo-sorteado.png)
